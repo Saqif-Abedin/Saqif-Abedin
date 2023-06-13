@@ -4,6 +4,8 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saqif-Abedin&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" align="right" alt="Saqif-Abedin"/>
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -17,7 +19,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saqif-Abedin&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" align="right" alt="Saqif-Abedin"/>
 ## 🌱 Learning Journey
 
 I'm on an exciting learning journey in the field of AI and machine learning. I'm constantly exploring new technologies, frameworks, and algorithms to stay up-to-date with the latest advancements. I'm enthusiastic about collaborating on innovative projects and leveraging AI to tackle real-world challenges.
