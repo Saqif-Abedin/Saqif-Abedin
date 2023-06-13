@@ -1,8 +1,8 @@
 # Welcome! 👋
 
-![Profile Banner](https://your-image-url.com)
+<h1 align="center"><b>Hi , I'm Saqif </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Hi! I'm Saqif! I'm a passionate Computer Science student at Stony Brook University, with a keen interest in Artificial Intelligence and Data Science. I enjoy exploring the fascinating world of AI and machine learning while constantly seeking opportunities to expand my knowledge.
+I'm a passionate Computer Science student at Stony Brook University, with a keen interest in Artificial Intelligence and Data Science. I enjoy exploring the fascinating world of AI and machine learning while constantly seeking opportunities to expand my knowledge.
 
 ## 🎓 Education
 
