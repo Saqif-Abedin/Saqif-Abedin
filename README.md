@@ -19,8 +19,6 @@
 
 ## 🚀 Projects
 
-I have worked on several exciting projects, including:
-
 - [Decaf Compiler](https://github.com/Saqif-Abedin/Python-based-Decaf-Compiler)
 - [FIFA Team Roster Generator](https://github.com/Saqif-Abedin/FIFA-Team-Roster-Generative-AI)
 - [Personal Finanical Tracker](https://github.com/Saqif-Abedin/TeamSAWFinalProj)
