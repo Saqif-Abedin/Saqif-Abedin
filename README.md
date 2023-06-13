@@ -15,9 +15,9 @@ Here are some of the skills I've acquired along my journey:
 
 I have worked on several exciting projects, including:
 
-- Decaf Compiler: [Decaf Compiler](https://github.com/your-username/project-link](https://github.com/Saqif-Abedin/Python-based-Decaf-Compiler)
-- FIFA Team Roster Generator: [FIFA Team Roster Generator]([https://github.com/your-username/project-link](https://github.com/Saqif-Abedin/FIFA-Team-Roster-Generative-AI))
-- Personal Finanical Tracker: [Personal Finanical Tracker]([https://github.com/your-username/project-link](https://github.com/Saqif-Abedin/TeamSAWFinalProj))
+- Decaf Compiler: [Decaf Compiler](https://github.com/Saqif-Abedin/Python-based-Decaf-Compiler)
+- FIFA Team Roster Generator: [FIFA Team Roster Generator](https://github.com/Saqif-Abedin/FIFA-Team-Roster-Generative-AI)
+- Personal Finanical Tracker: [Personal Finanical Tracker](https://github.com/Saqif-Abedin/TeamSAWFinalProj)
 
 Feel free to explore these projects and provide feedback. I'm always eager to learn and improve!
 
@@ -29,7 +29,7 @@ I'm on an exciting learning journey in the field of AI and machine learning. I'm
 
 You can find me on various platforms. Don't hesitate to reach out—I'd love to connect and engage in meaningful discussions!
 
-- LinkedIn: [Saqif Abedin](https://www.linkedin.com/in/saqif-abedin](https://www.linkedin.com/in/saqif-abedin-7840901b4))
+- LinkedIn: [Saqif Abedin](https://www.linkedin.com/in/saqif-abedin-7840901b4)
 - Email: [saqifabedin@gmail.com](saqifabedin@gmail.com)
 
 Feel free to explore my repositories, contribute to my projects, and join me on this incredible journey of learning and growth. 🤝
