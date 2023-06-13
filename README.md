@@ -15,9 +15,9 @@ Here are some of the skills I've acquired along my journey:
 
 I have worked on several exciting projects, including:
 
-- Decaf Compiler: [Decaf Compiler](https://github.com/Saqif-Abedin/Python-based-Decaf-Compiler)
-- FIFA Team Roster Generator: [FIFA Team Roster Generator](https://github.com/Saqif-Abedin/FIFA-Team-Roster-Generative-AI)
-- Personal Finanical Tracker: [Personal Finanical Tracker](https://github.com/Saqif-Abedin/TeamSAWFinalProj)
+- [Decaf Compiler](https://github.com/Saqif-Abedin/Python-based-Decaf-Compiler)
+- [FIFA Team Roster Generator](https://github.com/Saqif-Abedin/FIFA-Team-Roster-Generative-AI)
+- [Personal Finanical Tracker](https://github.com/Saqif-Abedin/TeamSAWFinalProj)
 
 Feel free to explore these projects and provide feedback. I'm always eager to learn and improve!
 
