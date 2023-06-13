@@ -17,14 +17,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 🚀 Projects
-
-- [Decaf Compiler](https://github.com/Saqif-Abedin/Python-based-Decaf-Compiler)
-- [FIFA Team Roster Generator](https://github.com/Saqif-Abedin/FIFA-Team-Roster-Generative-AI)
-- [Personal Finanical Tracker](https://github.com/Saqif-Abedin/TeamSAWFinalProj)
-
-Feel free to explore these projects and provide feedback. I'm always eager to learn and improve!
-
 ## 🌱 Learning Journey
 
 I'm on an exciting learning journey in the field of AI and machine learning. I'm constantly exploring new technologies, frameworks, and algorithms to stay up-to-date with the latest advancements. I'm enthusiastic about collaborating on innovative projects and leveraging AI to tackle real-world challenges.
