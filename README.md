@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi! I'm Saqif </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left"><b>Hi! I'm Saqif </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70707&width=500&lines=Computer+Science+%40+Stony+Brook+University;Full+Stack+Development;Artificial+Intelligence+and+Data+Science;Machine+Learning...)](https://git.io/typing-svg)
 
