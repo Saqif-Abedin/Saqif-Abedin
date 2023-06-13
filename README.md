@@ -30,7 +30,7 @@ I'm on an exciting learning journey in the field of AI and machine learning. I'm
 You can find me on various platforms. Don't hesitate to reach out—I'd love to connect and engage in meaningful discussions!
 
 - LinkedIn: [Saqif Abedin](https://www.linkedin.com/in/saqif-abedin-7840901b4)
-- Email: [saqifabedin@gmail.com](saqifabedin@gmail.com)
+- Email: [saqifabedin@gmail.com](mailto:saqifabedin@gmail.com)
 
 Feel free to explore my repositories, contribute to my projects, and join me on this incredible journey of learning and growth. 🤝
 
